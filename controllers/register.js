@@ -34,19 +34,6 @@ const handleRegister = (req, res, db, bcrypt) => {
             })
             .catch(err => res.status(400).json('ERROR: UNABLE TO REGISTER'));
 
-
-
-
-      /*
-      // database.users.push({
-      //       id: '125',
-      //       name: name,
-      //       email: email,
-      //       entries: 0,
-      //       joined: new Date()
-      // })
-      //res.json(database.users[database.users.length-1]);
-      */
 }
 
 module.exports = {
