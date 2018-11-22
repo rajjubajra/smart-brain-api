@@ -1,4 +1,3 @@
-# face-recognition-api
-# face-detection-api
-# face-recognition-api
-# smart-brain-api
+FACE DETECTION APP BACKEND
+frontend - smart-brain
+hosted on 
